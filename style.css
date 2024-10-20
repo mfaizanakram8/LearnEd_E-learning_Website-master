@@ -25,11 +25,15 @@ body {
 		
 	  }
 .anch{
-	font-size: larger;
-	color:  #FFFDD0;
-	padding: 12px;
-	background-color: #DF2771 ;
-	border-radius: 26px;
+	
+	padding: 5px 20px;
+	border: 2px solid #DF2771;
+	border-radius: 20px;
+	text-decoration: none;
+	margin-right: 30px;
+	transition: .5s;
+	background-color: #DF2771;
+	color: #fff;
 	margin-top: 20px;
 }
 
