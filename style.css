@@ -936,8 +936,9 @@ footer .btn:hover {
 		margin-top: 20px;
 	}
 	hero-section {
-        flex-direction: column; /* Stack elements vertically on smaller screens */
-        padding: 20px;
+        flex-direction: column;
+		 /* Stack elements vertically on smaller screens */
+       
     }
 
     .quote {
