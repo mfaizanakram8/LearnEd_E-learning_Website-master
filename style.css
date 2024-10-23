@@ -941,7 +941,8 @@ footer .btn:hover {
 	}
 	hero-section {
         flex-direction: column;
-		 /* Stack elements vertically on smaller screens */
+		 width:  300px;
+		 
        
     }
 
@@ -962,11 +963,7 @@ footer .btn:hover {
         font-size: 1.5rem;
     }
     
-	/* .svg-image img {
-		width: 90%;
-		margin: 20px;
-		/* align-self: center; */
-	 */
+	
 }
 
 @media screen and (max-width: 1000px) {	
